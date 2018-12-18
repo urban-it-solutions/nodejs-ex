@@ -11,7 +11,8 @@
     "url": "https://github.com/npm/npm.git"
   },
   "dependencies": {
-    "express": "~3.0.1",
+    "express": "4.15.3",
+    "prom-client": "9.1.1",
     "sequelize":"latest",
     "q":"latest",
     "tedious":"latest",
@@ -19,5 +20,11 @@
     "angular-ui-router": "~0.2.11",
     "path":"latest",
     "dat-gui":"latest"
-  }
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-airbnb-base": "11.2.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-promise": "3.5.0"
+},
 }
