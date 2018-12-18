@@ -26,5 +26,5 @@
     "eslint-config-airbnb-base": "11.2.0",
     "eslint-plugin-import": "2.2.0",
     "eslint-plugin-promise": "3.5.0"
-},
+}
 }
